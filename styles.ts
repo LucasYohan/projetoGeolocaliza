@@ -6,5 +6,9 @@ export const styles = StyleSheet.create({
             backgroundColor: '#fff',
             alignItems: 'center',
             justifyContent: 'center'
+    },
+    map: {
+        flex: 1,
+        width: '100%'
     }
 })
